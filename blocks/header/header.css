@@ -1,13 +1,11 @@
 .header {
   display: flex;
+  justify-content: start;
+  align-items: center;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
   position: relative;
   background-color: #f2f2f2;
   overflow: hidden;
-}
-
-.header__rotate {
-  animation: rotate 20s linear infinite;
 }

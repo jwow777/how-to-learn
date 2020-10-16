@@ -5,7 +5,3 @@
   position: relative;
   overflow: hidden;
 }
-
-.kaufman__rotate {
-  animation: rotate 20s linear infinite;
-}
